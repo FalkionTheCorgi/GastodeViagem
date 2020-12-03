@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gasto de Viagem</string>
+    <string name="preencha_todos_campos">Por favor insira os dados !</string>
+    <string name="numero_correto">Informe o Valor Correto</string>
+</resources>
